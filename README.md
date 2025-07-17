@@ -13,8 +13,8 @@
 
 ## 项目演示图片
 
-![屏幕截图 2025-07-17 181750](./assets/屏幕截图 2025-07-17 181750.png)
-![屏幕截图 2025-07-17 181739](./assets/屏幕截图 2025-07-17 181739.png)
-![屏幕截图 2025-07-17 181721](./assets/屏幕截图 2025-07-17 181721.png)
-![屏幕截图 2025-07-17 181131](./assets/屏幕截图 2025-07-17 181131.png)
-![屏幕截图 2025-07-17 181105](./assets/屏幕截图 2025-07-17 181105.png)
+![screenshot_1](./assets/screenshot_1.png)
+![screenshot_2](./assets/screenshot_2.png)
+![screenshot_3](./assets/screenshot_3.png)
+![screenshot_4](./assets/screenshot_4.png)
+![screenshot_5](./assets/screenshot_5.png)
